@@ -1,0 +1,17 @@
+.search {
+    -webkit-appearance: none;
+    border: 4px rgb(223, 29, 29);
+    border-radius: 1px;
+    border:none;
+    outline: 1px;;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+  }
+  
